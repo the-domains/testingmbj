@@ -1,0 +1,14 @@
+layout_spectrum: 0.4159698
+typography_spectrum: 0.4833426
+color:
+  saturation: 0.4706438
+  lightness: 0.4833137
+  brandStrength: 0.613796
+  rhythmicContrast: 0.5692858
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: TestingMBJ
